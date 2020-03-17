@@ -6,4 +6,5 @@
   "description": "For when you want to be a cute monster girl/boy",
   "category": "misc_additions",
   "dependencies": [ "dda" ]
+  "version": "1.0"
 }
